@@ -6,3 +6,4 @@ ppdeep>=20200505
 whois>=0.8
 tld>=0.9.1
 idna>=2.8
+aiohttp>=3.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
